@@ -12,7 +12,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmz200&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### 🧚‍♀️ 访问量统计
+开始于 2022.12.05
 
+![Visitor Count](https://profile-counter.glitch.me/fmz200/count.svg)
+
+<!---   ![](https://komarev.com/ghpvc/?username=fmz200&color=green)    --->
 
 
 
