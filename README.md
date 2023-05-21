@@ -3,7 +3,7 @@
 - 👀 I’m interested in research various interesting software.
 - 🌱 I’m currently learning Java，Pythoy...
 - 💞️ I’m looking to collaborate on how to write script.
-- 📫 How to reach me ? [@This is my tg channel](https://t.me/ppmiao)
+- 📫 How to reach me ? [@This is my tg channel](https://t.me/iFriedFish)
 
 
 ### 🏅 统计卡牌
