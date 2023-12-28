@@ -1,9 +1,15 @@
 
-### 👋 Hi.
-- 👀 I’m interested in research various interesting software.
-- 🌱 I’m currently learning Java，Pythoy...
-- 💞️ I’m looking to collaborate on how to write script.
-- 📫 How to reach me ? [@This is my tg channel](https://t.me/iFriedFish)
+### 👋 Hi. 我是奶思（nice的谐音）
+- 👀 喜欢研究一些有趣的软件和网站，特别是去广告。
+- 🌱 我正在学习Java，JavaScript，以及Python。
+- 📫 如何联系我？[这是我的TG频道](https://t.me/inaisi)
+
+
+### 🏄 个人仓库推荐
+
+1️⃣ [wool_scripts](https://github.com/fmz200/wool_scripts)： 收集一些QuantumultX、Loon、Surge、ShadowRocket的配置与脚本，去广告合集。
+
+2️⃣ [video-hub](https://github.com/Video-Hub-Org/video-hub)：一个简单的小红书、抖音、TikTok图片和视频批量下载和预览工具。
 
 
 ### 🏅 统计卡牌
