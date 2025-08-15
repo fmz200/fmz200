@@ -2,7 +2,7 @@
 ### 👋 Hi. 我是奶思（nice的谐音）
 - 👀 喜欢研究一些有趣的软件和网站，特别是去广告。
 - 🌱 我正在学习Java，JavaScript，以及Python。
-- 📫 如何联系我？[这是我的TG频道](https://t.me/inaisi)，[这是我的邮箱](mailto:super@vime50.com?subject=我从GitHub跳转而来想要与您建立沟通)
+- 📫 如何联系我？[Telegram chat](https://t.me/naisi_chat_bot)，[发送邮件](mailto:super@vime50.com?subject=我从GitHub跳转而来想要与您建立沟通)
 
 
 ### 🏄 个人仓库推荐
